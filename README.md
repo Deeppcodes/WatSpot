@@ -6,9 +6,6 @@ Being University of Waterloo students ourselves, we know how difficult it can be
 ## What it does
 WatSpot is a smart web application that helps students find their ideal study spots on campus. By taking into account personal preferences like quiet areas, aesthetic environments, or nearby food options, WatSpot provides tailored recommendations. It features real-time campus maps from the user's location to their chosen spot, ensuring a seamless and efficient study experience.
 
-## Preview
-![Image](https://github.com/user-attachments/assets/07b2d8e3-d70e-4e56-b701-e78d69020785)
-
 ## How we built it
 We developed WatSpot using Python for the backend, handling the recommendation algorithm and data processing. The React framework and CSS powered the frontend, ensuring a responsive, student-friendly user interface. 
 
